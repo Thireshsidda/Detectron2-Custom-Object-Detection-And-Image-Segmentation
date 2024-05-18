@@ -13,7 +13,7 @@ It provides a large set of baseline results and trained models available for dow
 This repository allows you to try on your own vision applications by replacing the pretarined models mentioned above according to your usecase.
 
 ## Training and inferencing
-##### 1. Data Preparation
+### 1. Data Preparation
 First gather the data from the web browser by running the script 'image_downloader.py' with mentioning the query string that refers what kind of data you want to install for your usecase.
 ```
 query_string = "Various type of Vehicles with clear Number plates"
