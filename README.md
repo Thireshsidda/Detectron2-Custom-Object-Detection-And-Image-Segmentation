@@ -1,6 +1,6 @@
 # Detectron2-Custom-Object-Detection-And-Segmentation
 
-<img src="https://github.com/facebookresearch/detectron2/blob/main/.github/Detectron2-Logo-Horz.svg" width="300" height="200" >
+<img src="https://github.com/facebookresearch/detectron2/blob/main/.github/Detectron2-Logo-Horz.svg" width="300">
 
 Detectron2 to For custom objects : Detectron2 is a popular PyTorch based modular computer vision model library.
 It is the second iteration of [Detectron](https://github.com/facebookresearch/Detectron/), originally written in Caffe2.
