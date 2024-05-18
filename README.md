@@ -44,6 +44,14 @@ Using this model checkpoint you can make inference your test dataset images to c
 https://github.com/Thireshsidda/Detectron2-Custom-Object-Detection-And-Segmentation/assets/92287626/47da0168-475f-4bcd-8a34-6f540788a601
 
 
+## Author
+
+👤 **Thiresh Sidda**
+
+* LinkedIn: [@ThireshSidda](https://www.linkedin.com/in/thiresh-sidda)
+* GitHub: [@ThireshSidda](https://github.com/Thireshsidda)
+
+
 
 
 
