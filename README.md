@@ -24,7 +24,8 @@ python image_downloader.py
 
 ### 2. Labelling the data
 After gathering data, we have to label it which our model should detect and segment. Here I have used a software called labelme to label the instances and get labelled json data file with respect to each image.
-Incase if you don't know how to use this software, just go through this page [Labelme](https://datagen.tech/guides/image-annotation/labelme/) you will get how to do.
+
+Incase if you don't know how to use this software, just go through this page [Labelme](https://datagen.tech/guides/image-annotation/labelme/) you will get how to install and how to use it.
 
 https://github.com/Thireshsidda/Detectron2-Custom-Object-Detection-And-Segmentation/assets/92287626/8454de51-3851-47c4-acb4-55816dca3fd9
 
