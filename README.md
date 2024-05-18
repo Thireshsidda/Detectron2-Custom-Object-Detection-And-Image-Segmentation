@@ -9,6 +9,9 @@ It supports a number of computer vision research projects and production applica
 
 ## Model Zoo and Baselines
 It provides a large set of baseline results and trained models available for download in the [Detectron2 Model Zoo](https://github.com/facebookresearch/detectron2/blob/main/MODEL_ZOO.md).
+
 This repository allows you to try on your own vision applications by replacing the pretarined models mentioned above according to your usecase.
 
+## Training and inferencing
+##### 1. Data Preparation
 
