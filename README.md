@@ -9,4 +9,8 @@ It is the successor of
 and [maskrcnn-benchmark](https://github.com/facebookresearch/maskrcnn-benchmark/).
 It supports a number of computer vision research projects and production applications in various AI tech industries.
 
+## Model Zoo and Baselines
+
+We provide a large set of baseline results and trained models available for download in the [Detectron2 Model Zoo](MODEL_ZOO.md).
+
 
