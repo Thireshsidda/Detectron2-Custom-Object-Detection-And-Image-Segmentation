@@ -27,6 +27,4 @@ After gathering data, we have to label it which our model should detect and segm
 Incase if you don't know how to use this software, just go through this page [Labelme](https://datagen.tech/guides/image-annotation/labelme/) you will get how to do.
 ![](Using-Labelme.mp4)
 
-Uploading Using-Labelme.mp4…
-
 
