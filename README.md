@@ -41,6 +41,9 @@ Then enable the model to train on your data by running the script 'train.py'. Th
 ### 5. Inferencing the model
 Using this model checkpoint you can make inference your test dataset images to check how good it performs on unseen data. For that pass your test image or video to the script 'test.py' as input and ckeck your model performance.
 
+https://github.com/Thireshsidda/Detectron2-Custom-Object-Detection-And-Segmentation/assets/92287626/47da0168-475f-4bcd-8a34-6f540788a601
+
+
 
 
 
