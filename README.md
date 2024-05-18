@@ -1,4 +1,4 @@
-# Detectron2RCNN_CustomObjectDetectionAndSegmentation
+# Detectron2-Custom-Object-Detection-And-Segmentation
 
 <img src="https://production-media.paperswithcode.com/libraries/dete.png" width="300" height="200" >
 
@@ -8,3 +8,5 @@ It is the successor of
 [Detectron](https://github.com/facebookresearch/Detectron/)
 and [maskrcnn-benchmark](https://github.com/facebookresearch/maskrcnn-benchmark/).
 It supports a number of computer vision research projects and production applications in various AI tech industries.
+
+
