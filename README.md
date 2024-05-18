@@ -11,6 +11,6 @@ It supports a number of computer vision research projects and production applica
 
 ## Model Zoo and Baselines
 
-We provide a large set of baseline results and trained models available for download in the [Detectron2 Model Zoo](MODEL_ZOO.md).
+We provide a large set of baseline results and trained models available for download in the [Detectron2 Model Zoo](https://github.com/facebookresearch/detectron2/blob/main/MODEL_ZOO.md).
 
 
