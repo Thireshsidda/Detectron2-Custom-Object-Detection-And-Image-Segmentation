@@ -2,7 +2,7 @@
 
 <img src="https://github.com/facebookresearch/detectron2/blob/main/.github/Detectron2-Logo-Horz.svg" width="300">
 
-Detectron2 to For custom objects : Detectron2 is a popular PyTorch based modular computer vision model library.
+Detectron2 is a popular PyTorch based modular computer vision model library.
 It is the second iteration of [Detectron](https://github.com/facebookresearch/Detectron/), originally written in Caffe2.
 The Detectron2 system allows you to plug in custom state of the art computer vision technologies into your workflow.
 It supports a number of computer vision research projects and production applications in various AI tech industries.
@@ -10,7 +10,7 @@ It supports a number of computer vision research projects and production applica
 ## Model Zoo and Baselines
 It provides a large set of baseline results and trained models available for download in the [Detectron2 Model Zoo](https://github.com/facebookresearch/detectron2/blob/main/MODEL_ZOO.md).
 
-This repository allows you to try on your own vision applications by replacing the pretarined models mentioned above according to your usecase.
+And this repository allows you to try on your own vision applications by replacing the pretarined models mentioned above according to your usecase.
 
 ## Training and inferencing
 ### 1. Data gathering
@@ -33,13 +33,13 @@ https://github.com/Thireshsidda/Detectron2-Custom-Object-Detection-And-Segmentat
 ### 3. Data Preparation
 After labelled the data we will get a json format file with respect to each image that contains details of labelled coordinates in JSON format. Now we have to convert this labelled data into COCO format for enabling the models to train on this custom data. 
 
-For that first split your data into train, valid, test and pass these to the script 'labelmetococo.py' to convert the images and json details into COCO format.
+For that first split your data into train, valid, test and pass these to the script 'labelme2coco.py' to convert the images and json details into COCO format.
 
 ### 4. Training the model
 Then enable the model to train on your data by running the script 'train.py'. This phase results you an artifact in your defined folder that consists model checkpoints and trained weightd of pretrained model.
 
 ### 5. Inferencing the model
-Using this model checkpoint you can make inference your test dataset images to check how good it performs on unseen data. For that pass your test image or video to the script 'test.py' as input and ckeck your model performance.
+Using this model checkpoint you can make inference on your test dataset images to check how good it performs on unseen data. For that pass your test image or video to the script 'test.py' as input and ckeck your model performance.
 
 https://github.com/Thireshsidda/Detectron2-Custom-Object-Detection-And-Segmentation/assets/92287626/47da0168-475f-4bcd-8a34-6f540788a601
 
