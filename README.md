@@ -2,7 +2,8 @@
 
 <img src="https://github.com/facebookresearch/detectron2/blob/main/.github/Detectron2-Logo-Horz.svg" width="300">
 
-Detectron2 is a popular PyTorch based modular computer vision model library.
+Detectron2 is Facebook AI Research's next generation library that provides state-of-the-art detection and segmentation algorithms.
+It is a popular PyTorch based modular computer vision model library.
 It is the second iteration of [Detectron](https://github.com/facebookresearch/Detectron/), originally written in Caffe2.
 The Detectron2 system allows you to plug in custom state of the art computer vision technologies into your workflow.
 It supports a number of computer vision research projects and production applications in various AI tech industries.
